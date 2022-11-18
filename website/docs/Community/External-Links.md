@@ -5,7 +5,7 @@ sidebar_position: 1
 # External Links
 
 - [WebApp](http://keeperc20.web.app)
-<!-- - [Docs](TODO) -->
+- [Docs](https://keeperc20.github.io/KeepERC20-docs/)
 - [GitHub](https://github.com/KeepERC20)
 
 ## Contact
