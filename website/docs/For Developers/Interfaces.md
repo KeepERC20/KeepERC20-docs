@@ -8,4 +8,4 @@ TBD
 
 ---
 
-Please refer to [GitHub](https://github.com/FOX-Finance/FOX-contract).
+Please refer to [GitHub](https://github.com/KeepERC20/KeepERC20-wrapper).

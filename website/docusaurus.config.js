@@ -49,10 +49,6 @@ const config = {
     ({
       navbar: {
         title: 'KeepERC20',
-        logo: {
-          alt: 'KeepERC20 Logo',
-          src: 'img/keeperc20_logo.png',
-        },
         items: [
           {
             type: 'doc',
