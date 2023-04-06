@@ -2,7 +2,7 @@
 sidebar_position: 2
 ---
 
-# How to Use
+# Deploy
 
 See [KeepERC20-wrapper](https://github.com/KeepERC20/KeepERC20-wrapper) for more details.
 

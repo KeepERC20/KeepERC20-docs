@@ -6,7 +6,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'KeepERC20',
+  title: 'KeeperC',
   tagline: 'Keep your ERC20s safe through Chainlink Automation (Keepers)',
   url: 'https://keeperc20.web.app',
   baseUrl: '/KeepERC20-docs/',

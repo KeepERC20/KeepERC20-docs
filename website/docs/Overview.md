@@ -6,9 +6,11 @@ sidebar_position: 3
 
 ![](./images/fig4.png)
 
-The user can participate in KeepERC20 system with any ERC20 token.
-- The sender's ERC20 tokens are internally wrapped into KeepERC20 tokens to benefit from various functions through smart contract and Chainlink Automation.
-- KeepERC20 tokens are internally unwrapped into ERC20 tokens, so the receiver can easily use received tokens for other Dapps.
+- When a user sends ERC20 tokens to KeeperC, they are wrapped into KeeperC tokens, allowing the user to take advantage of various features such as scheduled transfers, lost money recovery, expirable approval, and fraud detection through smart contracts and Chainlink Automation.
+- When the recipient receives the tokens, they are automatically unwrapped back into the original ERC20 tokens, making it easy to use the tokens with other dApps.
 
-Some tasks may be impossible with just simple token wrapping, such as ownership-related function calls.
-In that case KeepERC20 system creates a safe contract wallet internally and provides those functions seamlessly.
+However, in some cases, simple token wrapping may not be enough to perform certain tasks, such as ownership-related function calls.
+
+To address these cases, KeeperC creates a safe contract wallet internally and provides these functions seamlessly to ensure the security and convenience of users' tokens.
+
+With KeeperC, you can enjoy a secure and convenient way to manage your tokens while participating in the decentralized blockchain ecosystem.

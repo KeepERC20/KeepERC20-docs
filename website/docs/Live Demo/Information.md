@@ -1,24 +1,24 @@
 ---
-sidebar_position: 5
+sidebar_position: 3
 ---
 
-# Live Demo
+# Information
 
-*Mumbai testnet is used for a concrete example.*
+:::danger
 
-- 🔗 [WebApp](http://keeperc20.web.app)
-- ✉️ Feedback: [lukepark327@gmail.com](mailto:lukepark327@gmail.com)
+The KeeperC is a work-in-progress and is provided as-is, without any warranties or guarantees of its effectiveness. Its use is entirely at your own risk. Use the web app and extension with caution and thoroughly review its code before use to avoid potential loss of funds.
+
+:::
 
 ---
-
-## Faucet
-
-The faucet for Test ERC20 (TERC20) tokens is available! First, click the "Connect Wallet" button. Then, click the "Faucet" button appearing at the same location.
-
-![](./images/faucet_1.png)
-![](./images/faucet_2.png)
 
 ## Contracts
+
+:::info
+
+You'll need to give allowance to KeeperC contract on TERC20 and KTERC20 contracts for the first time usage.
+
+:::
 
 ERC20 Token
 
@@ -36,9 +36,7 @@ KeepERC20 Factory
 
 - address: "0x516e99AccB8Ebd6FC04C5FE4C516b8fF172a37e7"
 
----
-
 ## Chainlink Automation
 
 - [KeepERC20-TERC20 Upkeep](https://automation.chain.link/mumbai/9340155388659824822142057473546063992865515110295145464035554787059319211283)
-- [Register New Upkeep](./Register-Upkeeps.md)
+- [Register New Upkeep](../Register-Upkeeps.md)
