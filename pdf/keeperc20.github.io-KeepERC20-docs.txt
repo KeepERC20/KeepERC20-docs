@@ -1,0 +1,21 @@
+https://keeperc20.github.io/KeepERC20-docs/category/introduction
+https://keeperc20.github.io/KeepERC20-docs/Introduction/Wallet-and-Bank
+https://keeperc20.github.io/KeepERC20-docs/Introduction/KeepERC20
+https://keeperc20.github.io/KeepERC20-docs/Overview
+https://keeperc20.github.io/KeepERC20-docs/category/functions
+https://keeperc20.github.io/KeepERC20-docs/Functions/Scheduled-Transfer
+https://keeperc20.github.io/KeepERC20-docs/Functions/Recoverable-Transfer
+https://keeperc20.github.io/KeepERC20-docs/Functions/Expirable-Approve
+https://keeperc20.github.io/KeepERC20-docs/FDS
+https://keeperc20.github.io/KeepERC20-docs/category/chatbot
+https://keeperc20.github.io/KeepERC20-docs/Chatbot/
+https://keeperc20.github.io/KeepERC20-docs/Chatbot/telebot
+https://keeperc20.github.io/KeepERC20-docs/category/live-demo
+https://keeperc20.github.io/KeepERC20-docs/Live Demo/Webapp
+https://keeperc20.github.io/KeepERC20-docs/Live Demo/Extension
+https://keeperc20.github.io/KeepERC20-docs/Live Demo/Information
+https://keeperc20.github.io/KeepERC20-docs/Register-Upkeeps
+https://keeperc20.github.io/KeepERC20-docs/category/for-developers
+https://keeperc20.github.io/KeepERC20-docs/For Developers/Interfaces
+https://keeperc20.github.io/KeepERC20-docs/For Developers/Deploy
+https://keeperc20.github.io/KeepERC20-docs/Usecase
