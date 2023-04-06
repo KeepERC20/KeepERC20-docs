@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwebsite=self.webpackChunkwebsite||[]).push([[674],{2259:e=>{e.exports=JSON.parse('{"title":"Chatbot","slug":"/category/chatbot","permalink":"/KeepERC20-docs/category/chatbot","navigation":{"previous":{"title":"Fraud Detection","permalink":"/KeepERC20-docs/FDS"},"next":{"title":"Integrated Chatbot","permalink":"/KeepERC20-docs/Chatbot/"}}}')}}]);
