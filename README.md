@@ -9,6 +9,7 @@
 Deploy via `gh-pages`:
 
 ```bash
+$ cd website
 $ gh-pages -d build
 ```
 
