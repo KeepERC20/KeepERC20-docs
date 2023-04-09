@@ -10,3 +10,5 @@ You can join KeeperC's Telegram group (https://t.me/+8l6TVyQhoSI4YWJl) to access
 <!-- TODO: image -->
 
 The bot works in the same way as the chatbot in the web app and extension, providing natural language support and suggesting features and functions on KeeperC that you can use.
+
+![telebot](../images/6_telebot.gif)

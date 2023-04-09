@@ -21,8 +21,9 @@ KeeperC is a contract wallet that allows users to participate in the system with
 
 The faucet for Test ERC20 (TERC20) tokens is available! First, click the "Connect Wallet" button. Then, click the "Faucet" button appearing at the same location.
 
-![](../images/faucet_1.png)
-![](../images/faucet_2.png)
+<!-- ![](../images/faucet_1.png)
+![](../images/faucet_2.png) -->
+![faucet](../images/0_faucet.gif)
 
 ## Features
 

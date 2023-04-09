@@ -48,7 +48,7 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: 'KeepERC20',
+        title: 'KeeperC',
         items: [
           {
             type: 'doc',
@@ -107,7 +107,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} KeepERC20.`,
+        copyright: `Copyright © ${new Date().getFullYear()} KeeperC.`,
       },
       prism: {
         theme: lightCodeTheme,

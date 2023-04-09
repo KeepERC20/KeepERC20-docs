@@ -12,3 +12,5 @@ Current fraud detection in KeeperC is denylist-based phishing address detection.
 
 To ensure the highest level of security, KeeperC's denylist is constantly updated to include the latest phishing addresses.
 Additionally, if you encounter a new phishing address that is not on the denylist, you can report it to [KeeperC's support team](mailto:lukepark327@gmail.com), and they will investigate and add it to the denylist if necessary.
+
+![fds](./images/4_fds.gif)

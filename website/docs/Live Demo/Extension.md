@@ -32,3 +32,5 @@ Here's how to use it:
 2. Run `npm run build` to update the `dist` folder, then navigate to [chrome://extensions/](chrome://extensions/) and click on "Load unpacked" to import the updated `dist` folder. You'll need to enable **Developer mode** first.
 3. Get test tokens by clicking the "FAUCET / 0x1234..." button.
 4. Enjoy 🄺 KeeperC!
+
+![wallet](../images/7_wallet.gif)
